@@ -78,6 +78,6 @@ Context API
 CRUD completo
 Persistência de dados
 Componentização
-Autor
 
-Projeto desenvolvido por Dinea Reis.
+
+Autor: Projeto desenvolvido por Dinea Reis.
